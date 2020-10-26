@@ -1,0 +1,6 @@
+click
+pyyaml
+Sphinx>=2.0
+sphinx-autodoc-typehints
+sphinx-rtd-theme
+sphinx-click

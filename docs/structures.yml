@@ -1,0 +1,8367 @@
+---
+device_info:
+  revision: 14051
+structures:
+  100:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  101:
+    comment: Unknown, smtp-server for error reporting?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: smtp-server:587
+  102:
+    comment: Unknown, username for 101?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: username
+  103:
+    comment: Unknown, password for 101?
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  104:
+    comment: Unknown, for 101?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: from-address
+  105:
+    comment: Unknown, for 101?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: to-address
+  106:
+    comment: Unknown, next interval for 101?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '22:30'
+  107:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 255
+  108:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  109:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  110:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 01.01.99 01:01:01
+  111:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: false
+    l3: true
+    type: int
+    value: 0
+  112:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  113:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  114:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  115:
+    exists: false
+  116:
+    exists: false
+  117:
+    exists: false
+  118:
+    exists: false
+  119:
+    exists: false
+  120:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  121:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: smtp-server:587
+  122:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: username
+  123:
+    comment: Unknown, password for SMTP server?
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: password
+  124:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: to-address
+  125:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: from-address
+  126:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: SMS0173...
+  127:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '22:15'
+  128:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 255
+  129:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  130:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  131:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 14.09.20 12:21:32
+  132:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  133:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  134:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  135:
+    exists: false
+  136:
+    exists: false
+  137:
+    exists: false
+  138:
+    exists: false
+  139:
+    exists: false
+  140:
+    exists: false
+  141:
+    comment: See :ref:`sl-structure-141`
+    exists: true
+    l0: null
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    substructure:
+      $d:
+        comment: Device iD
+        l0: false
+        l1: null
+        l2: true
+        l3: true
+        type: object
+        children:
+          100:
+            comment: null
+            type: null
+            value: null
+          101:
+            comment: null
+            type: null
+            value: null
+          102:
+            comment: null
+            type: null
+            value: null
+          103:
+            comment: null
+            type: null
+            value: null
+          104:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-99
+                type: null
+                value: null
+          105:
+            exists: false
+          106:
+            comment: null
+            type: null
+            value: null
+          107:
+            exists: false
+          108:
+            comment: null
+            type: object
+            children:
+              0:
+                comment: null
+                type: int
+                value: 16500
+              1:
+                comment: Unknown, montly balance?
+                type: int
+                value: 80000
+              2:
+                comment: Unknown, yearly balance?
+                type: int
+                value: 1250000
+              3:
+                comment: Unknown, total balance?
+                type: int
+                value: 29500000
+          109:
+            exists: false
+          110:
+            exists: false
+          111:
+            exists: false
+          112:
+            exists: false
+          113:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: null
+                type: object
+                children:
+                  100:
+                    comment: null
+                    type: null
+                    value: null
+                  101:
+                    comment: null
+                    type: null
+                    value: null
+                  102:
+                    comment: null
+                    type: null
+                    value: null
+                  103:
+                    comment: null
+                    type: null
+                    value: null
+                  104:
+                    comment: null
+                    type: null
+                    value: null
+                  105:
+                    comment: null
+                    type: null
+                    value: null
+                  106:
+                    comment: null
+                    type: null
+                    value: null
+                  107:
+                    comment: null
+                    type: null
+                    value: null
+                  108:
+                    comment: null
+                    type: null
+                    value: null
+                  109:
+                    comment: null
+                    type: null
+                    value: null
+          114:
+            comment: null
+            type: null
+            value: null
+          115:
+            exists: false
+          116:
+            exists: false
+          117:
+            exists: false
+          118:
+            comment: Max production or consumption of device [W]
+            l1: true
+            type: int
+            value: 1127
+          119:
+            comment: Device name (as set by user during setup)
+            l1: true
+            type: str
+            value: 'WR 1'
+          120:
+            comment: null
+            type: null
+            value: null
+          121:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-11
+                type: null
+                value: null
+          122:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-11
+                type: null
+                value: null
+          123:
+            exists: false
+          124:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-11
+                type: null
+                value: null
+          125:
+            comment: null
+            type: null
+            value: null
+          126:
+            comment: null
+            type: null
+            value: null
+          127:
+            comment: null
+            type: null
+            value: null
+          128:
+            comment: null
+            type: null
+            value: null
+          129:
+            comment: null
+            type: null
+            value: null
+          130:
+            comment: null
+            type: null
+            value: null
+          131:
+            comment: null
+            type: null
+            value: null
+          132:
+            comment: null
+            type: null
+            value: null
+          133:
+            comment: null
+            type: null
+            value: null
+          134:
+            comment: null
+            type: null
+            value: null
+          135:
+            comment: null
+            type: null
+            value: null
+          136:
+            comment: null
+            type: null
+            value: null
+          137:
+            comment: null
+            type: null
+            value: null
+          138:
+            comment: null
+            type: null
+            value: null
+          139:
+            comment: null
+            type: null
+            value: null
+          140:
+            comment: null
+            type: null
+            value: null
+          141:
+            exists: false
+          142:
+            exists: false
+          143:
+            comment: null
+            type: null
+            value: null
+          144:
+            comment: null
+            type: null
+            value: null
+          145:
+            comment: null
+            l1: true
+            type: int
+            value: 2
+          146:
+            comment: null
+            type: null
+            value: null
+          147:
+            comment: null
+            type: null
+            value: null
+          148:
+            comment: null
+            type: null
+            value: null
+          149:
+            comment: null
+            l1: true
+            type: int
+            value: 8
+          150:
+            comment: null
+            type: null
+            value: null
+          151:
+            comment: null
+            type: null
+            value: null
+          152:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-5
+                type: null
+                value: 0
+          153:
+            comment: null
+            type: null
+            value: null
+          154:
+            comment: null
+            type: null
+            value: null
+          155:
+            comment: null
+            type: null
+            value: null
+          156:
+            comment: null
+            type: null
+            value: null
+          157:
+            comment: null
+            type: null
+            value: null
+          158:
+            comment: null
+            l1: true
+            type: int
+            value: 0
+          159:
+            comment: null
+            type: null
+            value: null
+          160:
+            comment: null
+            type: null
+            value: null
+          161:
+            comment: null
+            l1: true
+            type: int
+            value: 255
+          162:
+            comment: Device specification (IOB)
+            l1: true
+            type: null
+            value: null
+          163:
+            comment: null
+            type: null
+            value: null
+          164:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-9
+                type: null
+                value: null
+          165:
+            comment: null
+            type: null
+            value: null
+          166:
+            comment: null
+            type: null
+            value: null
+          167:
+            comment: null
+            type: null
+            value: null
+          168:
+            comment: null
+            type: null
+            value: null
+          169:
+            exists: false
+          170:
+            comment: null
+            type: null
+            value: null
+          171:
+            comment: null
+            type: null
+            value: null
+          172:
+            exists: false
+          173:
+            exists: false
+          706:
+            exists: false
+          707:
+            exists: false
+          708:
+            comment: Possible events for device (IOB)
+            type: object
+            children:
+              $n:
+                comment: Event text, Range 0-254
+                type: str
+                value: No Current
+          709:
+            comment: Error codes (IOB)
+            type: object
+            children:
+              $n:
+                comment: Error code, Range 0-254
+                type: str
+                value: No Current
+          710:
+            comment: Last events (IOB)
+            type: object
+            children:
+              $n:
+                comment: null
+                type: object
+                children:
+                  $m:
+                    comment: null
+                    type: array
+                    children:
+                      0:
+                        comment: Timestamp start
+                        type: int
+                        value: 1597028455
+                      1:
+                        comment: Timestamp end
+                        type: int
+                        value: 1597028478
+                      2:
+                        comment: null
+                        type: int
+                        value: 0
+                      3:
+                        comment: Event code
+                        type: int
+                        value: 255
+                      4:
+                        comment: Error code
+                        type: int
+                        value: 0
+          711:
+            comment: Statistics data for device (Examples from an RCT inverter below)
+            type: object
+            children:
+              $i:
+                comment: Days before today (today=0)
+                type: array
+                children:
+                  0:
+                    comment: null
+                    type: int
+                    value: 2301
+                  1:
+                    comment: null
+                    type: int
+                    value: 1179
+                  2:
+                    comment: null
+                    type: int
+                    value: 1192
+                  3:
+                    comment: null
+                    type: int
+                    value: 0
+                  4:
+                    comment: null
+                    type: int
+                    value: 0
+                  5:
+                    comment: null
+                    type: int
+                    value: 0
+                  6:
+                    comment: null
+                    type: int
+                    value: 0
+                  7:
+                    comment: null
+                    type: int
+                    value: 0
+                  8:
+                    comment: null
+                    type: int
+                    value: 0
+                  9:
+                    comment: null
+                    type: int
+                    value: 0
+                  10:
+                    comment: null
+                    type: int
+                    value: 0
+                  11:
+                    comment: null
+                    type: int
+                    value: 0
+                  12:
+                    comment: null
+                    type: int
+                    value: 0
+                  13:
+                    comment: udc1, string 1 (V)
+                    type: int
+                    value: 401
+                  14:
+                    comment: udc2, string 2 (V)
+                    type: int
+                    value: 401
+                  15:
+                    comment: null
+                    type: int
+                    value: 0
+                  16:
+                    comment: null
+                    type: int
+                    value: 0
+                  17:
+                    comment: null
+                    type: int
+                    value: 0
+                  18:
+                    comment: null
+                    type: int
+                    value: 0
+                  19:
+                    comment: null
+                    type: int
+                    value: 0
+                  20:
+                    comment: null
+                    type: int
+                    value: 0
+                  21:
+                    comment: null
+                    type: int
+                    value: 0
+                  22:
+                    comment: null
+                    type: int
+                    value: 0
+                  23:
+                    comment: null
+                    type: int
+                    value: 0
+                  24:
+                    comment: null
+                    type: int
+                    value: 0
+                  25:
+                    comment: null
+                    type: int
+                    value: 3
+                  26:
+                    comment: yield (kWh)
+                    type: int
+                    value: 2000
+                  27:
+                    comment: null
+                    type: int
+                    value: 0
+                  28:
+                    comment: null
+                    type: int
+                    value: 0
+          712:
+            comment: null
+            type: null
+            value: null
+          713:
+            comment: Unknown, probably big, device barfs
+            type: null
+            value: null
+  142:
+    exists: false
+  143:
+    comment: See :ref:`sl-structure-143`
+    exists: true
+    l0: null
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    substructure:
+      $n:
+        comment: null
+        l0: false
+        l1: true
+        l2: true
+        l3: true
+        type: object
+        children:
+          100:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Days before today, Range 0-254
+                type: array
+                children:
+                  0:
+                    comment: null
+                    type: array
+                    children:
+                      0:
+                        comment: Timestamp, day of first boot?
+                        type: int
+                        value: 1593129600
+                      1:
+                        comment: Timstamp, 19:59 of above day
+                        type: int
+                        value: 1593166799
+                      2:
+                        comment: Unknown, see note 1
+                        type: int
+                        value: 2
+                  1:
+                    comment: Statistics
+                    type: array
+                    children:
+                      0:
+                        comment: pac (W)
+                        type: int
+                        value: 3296
+                      1:
+                        comment: pdc1, string 1 (W)
+                        type: int
+                        value: 1686
+                      2:
+                        comment: pdc2, string 2 (W)
+                        type: int
+                        value: 1712
+                      3:
+                        comment: yield (kWh)
+                        type: int
+                        value: 17000
+                      4:
+                        comment: null
+                        type: int
+                        value: 12
+                      5:
+                        comment: null
+                        type: int
+                        value: 0
+                      6:
+                        comment: temperature (°C)
+                        type: int
+                        value: 46
+                      7:
+                        comment: udc1, string 1 (V)
+                        type: int
+                        value: 345
+                      8:
+                        comment: udc2, string 2 (V)
+                        type: int
+                        value: 358
+                      9:
+                        comment: uac L1 (V)
+                        type: int
+                        value: 233
+                      10:
+                        comment: uac L2 (V)
+                        type: int
+                        value: 233
+                      11:
+                        comment: uac L3 (V)
+                        type: int
+                        value: 233
+                      12:
+                        comment: battery_charge (W)
+                        type: int
+                        value: 0
+                      13:
+                        comment: battery_discharge (W)
+                        type: int
+                        value: 1
+                      14:
+                        comment: battery_charge (%)
+                        type: int
+                        value: 97
+                      15:
+                        comment: null
+                        type: int
+                        value: 4666
+                      16:
+                        comment: null
+                        type: int
+                        value: 4681
+                      17:
+                        comment: null
+                        type: int
+                        value: 4718
+                      18:
+                        comment: idc1, string 1 (mA)
+                        type: int
+                        value: 4567
+                      19:
+                        comment: idc2, string 2 (mA)
+                        type: int
+                        value: 4451
+                      20:
+                        comment: Unknown, line frequency (Hz)?
+                        type: float
+                        value: 49.98
+                      21:
+                        comment: null
+                        type: int
+                        value: 3303
+                      22:
+                        comment: null
+                        type: int
+                        value: -50
+          101:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Days before today, Range 0-254
+                type: array
+                children: []
+  144:
+    comment: Device network settings
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: ETH 1 settings
+        type: object
+        children:
+          101:
+            comment: Enable DHCP, ``"1"`` means enabled.
+            type: str
+            value: 1
+          102:
+            comment: IP address
+            type: str
+            value: 192.168.0.2
+          103:
+            comment: Subnet mask
+            type: str
+            value: 255.255.255.0
+          104:
+            comment: Default gateway
+            type: str
+            value: 192.168.0.1
+      101:
+        comment: ETH 2 settings
+        type: object
+        value: null
+        children:
+          100:
+            comment: Enable interface
+            type: str
+            value: 0
+          101:
+            comment: Enable DHCP, ``"1"`` means enabled.
+            type: str
+            value: 1
+          102:
+            comment: IP address
+            type: str
+            value: 0.0.0.0
+          103:
+            comment: Subnet mask
+            type: str
+            value: 0.0.0.0
+      102:
+        comment: DNS settings
+        type: object
+        children:
+          100:
+            comment: Primary DNS server
+            type: str
+            value: 8.8.8.8
+          101:
+            comment: Secondary DNS server
+            type: str
+            value: 8.8.4.4
+          102:
+            comment: List of DNS servers returned in the DHCP server response.
+            type: str
+            value: 8.8.8.8
+      103:
+        comment: Assign functions to individual ETH interfaces.
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: object
+            children:
+              100:
+                comment: ETH 1
+                type: int
+                value: 1
+              101:
+                comment: ETH 2
+                type: int
+                value: 0
+  145:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: null
+        l2: null
+        l3: null
+        type: object
+        children:
+          0:
+            comment: Unknown, index?
+            type: object
+            children:
+              100:
+                comment: null
+                type: int
+                value: 0
+      101:
+        comment: null
+        l2: null
+        l3: null
+        type: int
+        value: -1
+  146:
+    exists: false
+  147:
+    exists: false
+  148:
+    exists: false
+  149:
+    exists: false
+  150:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-12
+        type: int
+        value: 8
+  151:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-12
+        type: int
+        value: 17
+  152:
+    comment: Monthly % of total production estimation (IOB)
+    exists: true
+    l0: false
+    l1: true
+    l2: null
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: '% for given month, Range 0-11'
+        type: int
+        value: 10
+  153:
+    exists: false
+  154:
+    exists: false
+  155:
+    exists: false
+  156:
+    exists: false
+  157:
+    exists: false
+  158:
+    exists: false
+  159:
+    exists: false
+  160:
+    exists: false
+  161:
+    comment: Installed peak power (kWp), this is the sum of the peak power of all connected inverters.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 7800
+  162:
+    comment: kWh/kWp per year estimated. (IOB)
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 890
+  163:
+    exists: false
+  164:
+    exists: false
+  165:
+    exists: false
+  166:
+    exists: false
+  167:
+    exists: false
+  168:
+    exists: false
+  169:
+    exists: false
+  170:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  171:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 2
+  172:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  173:
+    comment: Unknown, destination for FTP upload?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ftp-server
+  174:
+    comment: Unknown, user for 173?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: username
+  175:
+    comment: Unknown, password for 173?
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: password
+  176:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  177:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 01.01.99 01:01:01
+  178:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  179:
+    exists: false
+  180:
+    exists: false
+  181:
+    exists: false
+  182:
+    exists: false
+  183:
+    exists: false
+  184:
+    exists: false
+  185:
+    exists: false
+  186:
+    exists: false
+  187:
+    exists: false
+  188:
+    exists: false
+  189:
+    exists: false
+  190:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  191:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: backup-server
+  192:
+    comment: Unknown, user for 191?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: username
+  193:
+    comment: Unknown, password for 191?
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: password
+  194:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  195:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 01.01.99 01:01:01
+  196:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  197:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  198:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  199:
+    comment: FTPS settings, requires license to use
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: null
+        type: int
+        value: 0
+      101:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 2
+      102:
+        comment: FTPS target hostname/address
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: ftps-server
+      103:
+        comment: FTPS username
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: username
+      104:
+        comment: FTPS password
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: password
+      105:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: ''
+      106:
+        comment: Unknown, timestamp of last transfer?
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: 01.01.99 01:01:01
+      107:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+      108:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+      109:
+        comment: Unknown, "last error"?
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: No error
+      110:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+      111:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: OK
+      112:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: bool
+        value: false
+      113:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: bool
+        value: false
+      114:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: bool
+        value: false
+      115:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: internal error
+  200:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 14
+  201:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 9
+  202:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 2020
+  203:
+    exists: false
+  204:
+    exists: false
+  205:
+    exists: false
+  206:
+    exists: false
+  207:
+    exists: false
+  208:
+    exists: false
+  209:
+    exists: false
+  210:
+    exists: false
+  211:
+    comment: Use NTP for time synchronization (``1`` is on, ``0`` is off).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  212:
+    exists: false
+  213:
+    exists: false
+  214:
+    exists: false
+  215:
+    exists: false
+  216:
+    exists: false
+  217:
+    exists: false
+  218:
+    exists: false
+  219:
+    exists: false
+  220:
+    exists: false
+  221:
+    comment: Whether user `admin` needs a password to log in (``1`` is yes).
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  222:
+    comment: Password for user `admin` if set.
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: __password_admin__
+  223:
+    comment: Whether user `user` needs a password to log in (``1`` is yes).
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  224:
+    comment: Password for user `user` if set.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: __password_user__
+  225:
+    exists: false
+  226:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  227:
+    exists: false
+  228:
+    exists: false
+  229:
+    exists: false
+  230:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Anlagenbezeichnung]'
+  231:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Betreibername]'
+  232:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: '[Kontakt-Emailadresse]'
+  233:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Standort der Anlage]'
+  234:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Beschreibung der Module und Hersteller]'
+  235:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Wechselrichterbezeichnung und Hersteller]'
+  236:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: "[Gr\xC3\xB6\xC3\x9Fe der Anlage] kWp"
+  237:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Installationsdatum]'
+  238:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Modulneigung und Ausrichtung]'
+  239:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '[Kurzbez.Anlage]'
+  240:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 4,5 kWp in 99999 Musterort
+  241:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: im Netz seit Januar 2008
+  242:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: www.solarlog-home.de/benutzer
+  243:
+    exists: false
+  244:
+    exists: false
+  245:
+    exists: false
+  246:
+    exists: false
+  247:
+    exists: false
+  248:
+    exists: false
+  249:
+    exists: false
+  250:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 4675
+  251:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  252:
+    exists: false
+  253:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 300
+  254:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  255:
+    exists: false
+  256:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  257:
+    exists: false
+  258:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-7
+        type: int
+        value: 0
+  259:
+    comment: Current hour, in time settings (``gmt_hr``)
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  260:
+    comment: Country ID, ``0`` is Germany. See form in settings page.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  261:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  262:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  263:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  264:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  265:
+    comment: null
+    exists: true
+    l0: true
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-18
+        type: object
+        children:
+          100:
+            comment: null
+            type: str
+            value: ''
+          101:
+            comment: null
+            type: int
+            value: 890
+          102:
+            comment: null
+            type: int
+            value: 4675
+  266:
+    comment: Automatic firmware check (``1`` is off!).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  267:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  268:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 17
+  269:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-2
+        type: int
+        value: 0
+  270:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-2
+        type: int
+        value: 0
+  271:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-2
+        type: int
+        value: 0
+  272:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 1000
+  273:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  274:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-4
+        type: int
+        value: 0
+  275:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  276:
+    exists: false
+  277:
+    exists: false
+  278:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1000
+  279:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 08:00
+  280:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 22:00
+  281:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  282:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 30
+  283:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  284:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 60
+  285:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  286:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 15
+  287:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  288:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 0
+  289:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  290:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  291:
+    comment: 'Language ID: 1=de, 2=en, 3=it, 5=es, 6=fr, 10=cn'
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  292:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  293:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  294:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  295:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1600089017
+  296:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  297:
+    exists: false
+  298:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  299:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  300:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  301:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-6
+        type: object
+        children:
+          100:
+            comment: null
+            type: str
+            value: ''
+  302:
+    comment: Unknown, in effective power management settings.
+    exists: true
+    l0: false
+    l1: true
+    l2: null
+    l3: null
+    type: object
+    children:
+      0:
+        comment: Unknown, reduction step?
+        type: int
+        value: 100
+      1:
+        comment: Unknown, reduction step?
+        type: int
+        value: 60
+      2:
+        comment: Unknown, reduction step?
+        type: int
+        value: 30
+      3:
+        comment: Unknown, reduction step?
+        type: int
+        value: 0
+  303:
+    comment: Unknown, in effective power management settings.
+    exists: true
+    l0: false
+    l1: true
+    l2: null
+    l3: null
+    type: object
+    children:
+      0:
+        comment: null
+        type: int
+        value: 1
+      1:
+        comment: null
+        type: int
+        value: 2
+      2:
+        comment: null
+        type: int
+        value: 4
+      3:
+        comment: null
+        type: int
+        value: 8
+  304:
+    exists: false
+  305:
+    exists: false
+  306:
+    comment: Unknown, in effective power management settings.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 100
+  307:
+    comment: Unknown, in effective power management settings
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  308:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  309:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  310:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  311:
+    exists: false
+  312:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  313:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, IP address
+        type: str
+        value: 0.0.0.0
+  314:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      0:
+        comment: null
+        type: null
+        value: 'null'
+      1:
+        comment: null
+        type: null
+        value: 'null'
+  315:
+    exists: false
+  316:
+    exists: false
+  317:
+    exists: false
+  318:
+    comment: Unknown. On Firmware 3.x, it is said that writing ``200000001`` via restoring a "backup" containing the setting recalculates month and year statistics. At least that's the content of the "config_recalc_stat.dat" sent by SDS.
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  319:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+      101:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+      102:
+        comment: Unknown, time?
+        l1: null
+        l2: null
+        l3: null
+        type: str
+        value: 00:00
+      103:
+        comment: null
+        l1: null
+        l2: null
+        l3: null
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-59
+            type: object
+            children:
+              100:
+                comment: null
+                type: int
+                value: 0
+              101:
+                comment: null
+                type: int
+                value: 0
+              102:
+                comment: null
+                type: int
+                value: 0
+              103:
+                comment: null
+                type: int
+                value: 0
+              104:
+                comment: null
+                type: int
+                value: 0
+              105:
+                comment: null
+                type: int
+                value: 0
+              106:
+                comment: null
+                type: object
+                children:
+                  $i:
+                    comment: Unknown, Range 0-31
+                    type: object
+                    children:
+                      100:
+                        comment: null
+                        type: int
+                        value: 0
+                      101:
+                        comment: null
+                        type: int
+                        value: 0
+                      102:
+                        comment: null
+                        type: int
+                        value: 0
+                      103:
+                        comment: null
+                        type: int
+                        value: 0
+                      104:
+                        comment: null
+                        type: int
+                        value: 0
+              107:
+                comment: null
+                type: int
+                value: 0
+              108:
+                comment: null
+                type: str
+                value: ''
+              109:
+                comment: null
+                type: int
+                value: 0
+              110:
+                comment: null
+                type: int
+                value: 0
+              111:
+                comment: Unknown, IP address?
+                type: str
+                value: 0.0.0.0
+              112:
+                comment: Unknown, IP address?
+                type: str
+                value: 0.0.0.0
+  320:
+    exists: false
+  321:
+    exists: false
+  322:
+    exists: false
+  323:
+    exists: false
+  324:
+    exists: false
+  325:
+    exists: false
+  326:
+    exists: false
+  327:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  328:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 5
+  329:
+    exists: false
+  330:
+    exists: false
+  331:
+    exists: false
+  332:
+    exists: false
+  333:
+    exists: false
+  334:
+    exists: false
+  335:
+    exists: false
+  336:
+    exists: false
+  337:
+    exists: false
+  338:
+    exists: false
+  339:
+    exists: false
+  340:
+    exists: false
+  341:
+    exists: false
+  342:
+    exists: false
+  343:
+    exists: false
+  344:
+    exists: false
+  345:
+    comment: Unknown, reactive power management?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 0
+  346:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 10000
+  347:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 0
+  348:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  349:
+    exists: false
+  350:
+    exists: false
+  351:
+    exists: false
+  352:
+    exists: false
+  353:
+    comment: Time zone ID, 0=None, 1=DST_MESZ, 2=DST_USA, 3=AUSTRALIA
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  354:
+    exists: false
+  355:
+    exists: false
+  356:
+    exists: false
+  357:
+    exists: false
+  358:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  359:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  360:
+    exists: false
+  361:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  362:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  363:
+    exists: false
+  364:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  365:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  366:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  367:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-5
+        type: int
+        value: 0
+  368:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  369:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  370:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  371:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  372:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  373:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  374:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  375:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  376:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  377:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  378:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  379:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  380:
+    exists: false
+  381:
+    exists: false
+  382:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 4
+  383:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 100
+  384:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 0
+  385:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  386:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  387:
+    comment: Effective power management, Mode ID of operation.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  388:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  389:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  390:
+    comment: Maximum apparent power of plant (sum).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  391:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3, Value range ``-31`` to ``31``
+        type: int
+        value: -31
+  392:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 10600
+  393:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 20000.0
+  394:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 100.0
+  395:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 9500
+  396:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 100
+  397:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3, Timestamps?
+        type: str
+        value: 00:00
+  398:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 10000
+  399:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 0
+  400:
+    comment: Password for user `installer` if set, defaults to ``PM`` before initial setup.
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: true
+    type: str
+    value: __password_installer__
+  401:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  402:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  403:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  404:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: true
+    type: str
+    value: ''
+  405:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  406:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  407:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  408:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  409:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  410:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  411:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: null
+    value: 'null'
+  412:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  413:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-19
+        type: int
+        value: 0
+  414:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  415:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  416:
+    exists: false
+  417:
+    exists: false
+  418:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  419:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  420:
+    comment: Effective power management, enables dynamic control if pv-module orientation differs from one another.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  421:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 700
+  422:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  423:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  424:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  425:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  426:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  427:
+    exists: false
+  428:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 2005
+  429:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-7
+        type: int
+        value: 0
+  430:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  431:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  432:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  433:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  434:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  435:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  436:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  437:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  438:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  439:
+    exists: false
+  440:
+    comment: Whether the `installer` user needs a password (``1`` is yes).
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  441:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-9
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: Unknown, IP-Address?
+            type: str
+            value: 0.0.0.0
+          103:
+            comment: null
+            type: int
+            value: 0
+          104:
+            comment: null
+            type: str
+            value: ''
+          105:
+            comment: null
+            type: str
+            value: ''
+  442:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-19
+        type: object
+        children:
+          100:
+            comment: null
+            type: str
+            value: ''
+          101:
+            comment: null
+            type: str
+            value: 0.0000
+  443:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-9
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: object
+            children:
+              $n:
+                comment: Unknown, Range 0-19
+                type: object
+                children:
+                  100:
+                    comment: null
+                    type: str
+                    value: ''
+                  101:
+                    comment: null
+                    type: str
+                    value: 0.0000
+          102:
+            comment: null
+            type: object
+            children:
+              $n:
+                comment: Unknown, Range 0-19
+                type: object
+                children:
+                  100:
+                    comment: null
+                    type: str
+                    value: ''
+                  101:
+                    comment: null
+                    type: str
+                    value: 0.0000
+  444:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '0.00'
+  445:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '0.00'
+  446:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-9
+        type: object
+        children:
+          100:
+            comment: null
+            type: object
+            children:
+              $n:
+                comment: Unknown, Range 0-19
+                type: object
+                children:
+                  100:
+                    comment: null
+                    type: int
+                    value: 0
+                  101:
+                    comment: null
+                    type: int
+                    value: 0
+                  102:
+                    comment: null
+                    type: str
+                    value: 0.0000
+  447:
+    comment: Smart Energy switch groups (IOB).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Group ID?
+        type: object
+        children:
+          100:
+            comment: Name of switching group
+            type: str
+            value: ''
+          101:
+            comment: null
+            type: object
+            children:
+              $n:
+                comment: null
+                type: object
+                children:
+                  100:
+                    comment: null
+                    type: int
+                    value: 255
+                  101:
+                    comment: null
+                    type: int
+                    value: 255
+          102:
+            comment: Manual set states?
+            type: int
+            value: 2
+          103:
+            comment: null
+            type: int
+            value: 0
+          104:
+            comment: null
+            type: object
+            children:
+              0:
+                comment: null
+                type: int
+                value: 0
+              1:
+                comment: null
+                type: int
+                value: 0
+              2:
+                comment: null
+                type: int
+                value: 0
+              3:
+                comment: null
+                type: int
+                value: 0
+  448:
+    comment: Switching group configuration?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15
+        type: int
+        value: 770
+  449:
+    comment: Switching groups config (IOB).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  450:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  451:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-5
+        type: int
+        value: 0
+  452:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  453:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  454:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  455:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  456:
+    comment: Remote logging URL, data is sent to this URL at a selectable interval. This is used to send data to Web-Enerest™-
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  457:
+    comment: Unknown, maybe a hash or an encrypted value? 32 characters.
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: __hash_value__
+  458:
+    comment: Interval at which data is sent to the server configured at ``456``.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 30
+  459:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  460:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  461:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  462:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  463:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  464:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  465:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  466:
+    comment: Unknown, maybe a hash or an encrypted value? 32 characters.
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: __hash_value__
+  467:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  468:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 7600
+  469:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  470:
+    exists: false
+  471:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-5
+        type: int
+        value: 0
+  472:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  473:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  474:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 2
+  475:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: true
+    type: str
+    value: ''
+  476:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: true
+    type: str
+    value: ''
+  477:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 01.01.99 01:01:01
+  478:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  479:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  480:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  481:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  482:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  483:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  484:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  485:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-7
+        type: int
+        value: 0
+  486:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  487:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  488:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  489:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  490:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  491:
+    comment: Effective Power Management, LCD mode (0=errors only, 2=target %DC, 2=control %ac).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  492:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  493:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  494:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-26
+        l1: null
+        l2: null
+        l3: null
+        type: int
+        value: 0
+  495:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  496:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  497:
+    comment: Daily statistics.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-47
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 1
+          101:
+            comment: null
+            type: int
+            value: 151
+          102:
+            comment: null
+            type: int
+            value: 0
+          103:
+            comment: null
+            type: int
+            value: 0
+          104:
+            comment: null
+            type: int
+            value: 0
+          105:
+            comment: null
+            type: int
+            value: 0
+          106:
+            comment: null
+            type: int
+            value: 0
+          107:
+            comment: null
+            type: int
+            value: 0
+          108:
+            comment: null
+            type: int
+            value: 0
+          109:
+            comment: Whether effective power management is active for this device (``1`` is on).
+            type: int
+            value: 0
+          110:
+            comment: null
+            type: int
+            value: 0
+          111:
+            comment: null
+            type: int
+            value: 0
+  498:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 9600
+  499:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-9
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: int
+            value: 0
+          103:
+            comment: null
+            type: object
+            children:
+              $n:
+                comment: Unknown, Range 0-24
+                type: int
+                value: 0
+          104:
+            comment: null
+            type: int
+            value: 0
+          105:
+            comment: null
+            type: int
+            value: 0
+  500:
+    comment: Unknown, appears in config backup file.
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: int
+    value: null
+  501:
+    comment: Unknown, appears in config backup file.
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: int
+    value: null
+  502:
+    comment: Unknown, appears in config backup file.
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: int
+    value: null
+  503:
+    comment: Whether the Open JSON API is enabled (``1`` is yes).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  504:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  505:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 1
+  506:
+    exists: false
+  507:
+    exists: false
+  508:
+    exists: false
+  509:
+    exists: false
+  510:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 27
+  511:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  512:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  513:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  514:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  515:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  516:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 14
+  517:
+    exists: false
+  518:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 5
+  519:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  520:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  521:
+    exists: false
+  522:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 0
+  523:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-3
+        type: int
+        value: 0
+  524:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  525:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  526:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  527:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  528:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  529:
+    comment: Unknown, IP address or mask?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 0.0.0.0
+  530:
+    exists: false
+  531:
+    exists: false
+  598:
+    exists: false
+  599:
+    exists: false
+  600:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  601:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-15, Arrays of varying size
+        type: array
+        children: []
+  602:
+    comment: Currency symbol of the selected country (e.g. ``€``).
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: "\xE2\x82\xAC"
+  603:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  604:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: true
+    l3: null
+    type: str
+    value: ;;;
+  605:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  606:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  607:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  608:
+    comment: Status per inverter or meter. The IDs are the device IDs of the device inventory. ``OFFLINE`` denotes that the device is not defined.
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Status for Device ID ``$i``, Status or ``OFFLINE``, Range 0-99
+        type: str
+        value: Feed in
+  609:
+    comment: Unknown, Device error codes?
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Device ID? Range 0-99, ``OFFLINE`` for all but set up devices.
+        type: str
+        value: "24-Hochdruck K1- DruckstÃ¶rung"
+  610:
+    comment: RTOS information (IOB)
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 3.14.38_solarlog_0.3.1+gbd7b4146166 2020020715255
+  611:
+    comment: CLIB information (IOB)
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: V0.00
+  612:
+    comment: Unknown, events?
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-1
+        type: array
+        children:
+          $n:
+            comment: null
+            type: array
+            children:
+              0:
+                comment: Begin date?
+                type: str
+                value: 26.06.20 09:57:35
+              1:
+                comment: End date? Sometimes empty string, maybe if the event is still ongoing?
+                type: str
+                value: 26.06.20 10:24:44
+              2:
+                comment: null
+                type: int
+                value: 100
+              3:
+                comment: null
+                type: int
+                value: 4
+  613:
+    comment: Date format string for the selected country and language setting.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: dd.mm.yy
+  614:
+    comment: Time format string (including seconds) for the selected country and language setting.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: HH:MM:ss
+  615:
+    comment: Time format string (without seconds) for the selected country and language setting.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: HH:MM
+  616:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  617:
+    comment: Device mac address.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: __device_mac_address__
+  618:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  619:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  620:
+    comment: null
+    exists: true
+    l0: null
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  621:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  622:
+    exists: false
+  623:
+    exists: false
+  664:
+    exists: false
+  665:
+    exists: false
+  666:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 0
+  667:
+    exists: false
+  668:
+    exists: false
+  699:
+    exists: false
+  700:
+    exists: false
+  701:
+    comment: Local time. This is queried constantly by the website to update the clock display next to the LCD.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: 14.09.20 14:18:01
+  702:
+    exists: false
+  703:
+    exists: false
+  704:
+    exists: false
+  705:
+    exists: false
+  706:
+    comment: Device serial number.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: __serial_number__
+  707:
+    exists: false
+  708:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  709:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  710:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  711:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  712:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  713:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ddzsriuz/solarlog_config.dat
+  714:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  715:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  716:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  717:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  718:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 7
+  719:
+    comment: Error messages
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Individual error message, Range 0-49
+        type: array
+        children:
+          0:
+            comment: Timestamp
+            type: int
+            value: 1593526441
+          1:
+            comment: null
+            type: int
+            value: 0
+          2:
+            comment: null
+            type: int
+            value: 0
+          3:
+            comment: Unknown, ID of message? Increments with ``$i``.
+            type: int
+            value: 1
+          4:
+            comment: null
+            type: int
+            value: 0
+          5:
+            comment: null
+            type: int
+            value: 0
+          6:
+            comment: null
+            type: int
+            value: 4
+          7:
+            comment: Error message
+            type: str
+            value: "Solar-Log - [SN:SNSNSNSNSN] - Störmeldung aus Status/Fehlercodeüberwachung"
+              # rest too long: `` vom 30.06.20 - 14:14:01 2: WR 1 auf Störung! Status=2-Standby, Fehler=14-ERR_GRID_UNDERVOLTAGE_UL1,``
+  720:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  721:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  722:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  723:
+    exists: false
+  724:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '0'
+  725:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: '0'
+  726:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: ''
+  727:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: solarlog
+  728:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  729:
+    exists: false
+  730:
+    exists: false
+  731:
+    exists: false
+  732:
+    exists: false
+  733:
+    exists: false
+  734:
+    exists: false
+  735:
+    exists: false
+  736:
+    exists: false
+  737:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254, all "OK"
+        type: str
+        value: OK
+  738:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  739:
+    comment: Supported devices, all (IOB). This is the internal configuration map that drives the individual devices settings page and selects driver to use etc., it also mapps the Vendor ID to Device Class (Device Stanza).
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $d:
+        comment: Single device information
+        type: array
+        children:
+          0:
+            comment: Vendor ID (VID, see **744**)
+            type: int
+            value: 4
+          1:
+            comment: Name (IOB), may be empty string
+            type: str
+            value: ''
+          2:
+            comment: Vendor name
+            type: str
+            value: Sunways
+          3:
+            comment: RS485 baud rate if device is connected this way
+            type: int
+            value: 9600
+          4:
+            comment: null
+            type: int
+            value: 1
+          5:
+            comment: Device Class, bitfield combining multiple classes
+            type: int
+            value: 1
+          6:
+            comment: Device ID
+            type: int
+            value: 3
+          7:
+            comment: Device driver shared object file name, this presumely not only handles device connectivity but also the device detection and configuration wizards.
+            type: str
+            value: kaco485.so
+          8:
+            comment: null
+            type: int
+            value: 0
+          9:
+            comment: null
+            type: str
+            value: '1.0.0'
+          10:
+            comment: null
+            type: bool
+            value: false
+          11:
+            comment: null
+            type: bool
+            value: false
+          12:
+            comment: null
+            type: int
+            value: 1
+  740:
+    comment: Device ID to serial number mapping. The index is the device ID. Note that the value is not always a serial number. For Modbus devices, the device address is prepended (``9 / 123123123``), for intelligent devices it may be the literal IP address.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: '"Serial number" of device ``$i``'
+        type: str
+        value: '1 / 123123123'
+  741:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  742:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  743:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  744:
+    comment: List of all brand names for all supported devices. The index is the Vendor ID, the value is the vendor name.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Brand name
+        type: str
+        value: Danfoss
+  745:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: false
+    type: null
+    value: null
+  746:
+    exists: false
+  747:
+    exists: false
+  748:
+    exists: false
+  749:
+    exists: false
+  750:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  751:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  752:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  753:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 250
+  754:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  755:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  756:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  757:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  758:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: true
+    l3: true
+    type: str
+    value: OK
+  759:
+    exists: false
+  760:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  761:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  762:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  763:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  764:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  765:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: null
+    l3: null
+    type: int
+    value: 0
+  766:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  767:
+    exists: false
+  768:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  769:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  770:
+    exists: false
+  771:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: array
+    children:
+      $i:
+        comment: Unknown, Range 0-6
+        type: array
+        children:
+          0:
+            comment: Unknown, measurement timestamp?
+            type: str
+            value: 1599523200
+          1:
+            comment: null
+            type: str
+            value: 37000
+          2:
+            comment: null
+            type: str
+            value: 18985
+  772:
+    exists: false
+  773:
+    exists: false
+  774:
+    exists: false
+  775:
+    exists: false
+  776:
+    comment: 5-minute consumption table (IOB). The index is the "days before today", so 0 is the (incomplete) table for "today".
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Days before today
+        type: object
+        children:
+          $n:
+            comment: Range 0-274 (24h x 15min)
+            type: object
+            children:
+              0:
+                comment: Measurement timestamp
+                type: str
+                value: 00:00:00
+              1:
+                comment: null
+                type: object
+                children:
+                  0:
+                    comment: Device 0?
+                    type: array
+                    children:
+                      0:
+                        comment: null
+                        type: int
+                        value: null
+                      1:
+                        comment: null
+                        type: int
+                        value: null
+                  1:
+                    comment: Device 1?
+                    type: array
+                    children:
+                      0:
+                        comment: null
+                        type: int
+                        value: null
+                      1:
+                        comment: null
+                        type: int
+                        value: null
+                      2:
+                        comment: null
+                        type: int
+                        value: null
+                      3:
+                        comment: null
+                        type: int
+                        value: null
+                  2:
+                    comment: Device 2?
+                    type: array
+                    children:
+                      0:
+                        comment: null
+                        type: int
+                        value: null
+                      1:
+                        comment: null
+                        type: int
+                        value: null
+                  3:
+                    comment: Device 3?
+                    type: array
+                    children:
+                      0:
+                        comment: null
+                        type: int
+                        value: null
+                      1:
+                        comment: null
+                        type: int
+                        value: null
+  777:
+    comment: Daily consumption and production per inverter (IOB). The index may be the "months before current", so 0 may be the (incomplete) table for the current month.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Months before now
+        type: array
+        children:
+          $n:
+            comment: Days since start of month
+            type: array
+            children:
+              0:
+                comment: Date of this element
+                type: str
+                value: 01.08.20
+              1:
+                comment: Values
+                type: array
+                children:
+                  0:
+                    comment: null
+                    type: int
+                    value: 270
+                  1:
+                    comment: null
+                    type: int
+                    value: 32000
+                  2:
+                    comment: null
+                    type: int
+                    value: 19430
+                  3:
+                    comment: null
+                    type: int
+                    value: 2739
+  778:
+    comment: Daily self-consumption, self-production and (if present) battery charge and discharge values (IOB).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Range 0-254
+        type: array
+        children:
+          $n:
+            comment: null
+            type: array
+            children:
+              0:
+                comment: Date for this element
+                type: str
+                value: 01.08.20
+              1:
+                comment: null
+                type: int
+                value: 12557
+              2:
+                comment: null
+                type: int
+                value: 8223
+              3:
+                comment: null
+                type: int
+                value: 8223
+              4:
+                comment: null
+                type: int
+                value: 8499
+  779:
+    comment: Monthly consumption and priduction per inverter (IOB).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Month before now? Range 0-254
+        type: array
+        children:
+          0:
+            comment: Date of the first day of the month
+            type: str
+            value: 01.08.20
+          0:
+            comment: null
+            type: int
+            value: 155570
+          1:
+            comment: null
+            type: int
+            value: 824000
+          2:
+            comment: null
+            type: int
+            value: 445786
+          3:
+            comment: null
+            type: int
+            value: 73484
+  780:
+    comment: Generation in kW, sum of all energy generation devices (current reading).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 5962
+  781:
+    comment: Consumption in kW, sum of all energy consuming devices (current reading).
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: int
+    value: 530
+  782:
+    comment: Consumption and production per device (inverter or meter) (IOB). The ID is the device ID from the device inventory.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Device consumption or production. Device ID, see **740**. Range 0-99
+        type: int
+        value: 323
+  783:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  784:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  785:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  786:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  787:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  788:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  789:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  790:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  791:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  792:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  793:
+    exists: false
+  794:
+    comment: Content of the virtual LCD display, this is queried by the website every 5 seconds to update the LCD.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-1
+        type: array
+        children:
+          $n:
+            comment: Unknown, Range 0-16
+            type: array
+            children:
+              0:
+                comment: null
+                type: int
+                value: 0
+              1:
+                comment: null
+                type: int
+                value: 0
+  795:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  796:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-59
+        type: array
+        value: '[]'
+        children: []
+  797:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  798:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  799:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  800:
+    comment: See :ref:`sl-structure-800`
+    exists: true
+    l0: null
+    l1: null
+    l2: true
+    l3: true
+    type: object
+    substructure:
+      100:
+        comment: Model number (IOB)
+        l0: false
+        type: int
+        value: 61
+      101:
+        comment: null
+        l0: false
+        type: int
+        value: 16974156
+      102:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      103:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      104:
+        l0: false
+        comment: Timestamp in the past. Moves in 1h increments. Timstamp of the beginning of a measurement?
+        type: str
+        value: 26.07.20 13:35:07
+      105:
+        l0: false
+        comment: null
+        type: int
+        value: 0
+      106:
+        comment: Device found when scanning (108)
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-47
+            type: int
+            value: 0
+      107:
+        comment: null
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-47
+            type: int
+            value: 0
+      108:
+        comment: Scan progress when scanning for devices. This is the ``1 of 250`` value that gets shown during scanning.
+        l0: false
+        type: str
+        value: "1;250;"
+      109:
+        exists: false
+      110:
+        comment: null
+        l0: true
+        l1: true
+        type: int
+        value: 0
+      112:
+        comment: null
+        l0: true
+        l1: true
+        type: int
+        value: 0
+      113:
+        exists: false
+      114:
+        comment: Unknown, Gauge, pac =801/170/101?
+        l0: false
+        type: int
+        value: 2930
+      115:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      116:
+        comment: Unknown, Timestamp, ``+2h % 5mins == 0``
+        l0: false
+        type: int
+        value: 1595772000
+      117:
+        comment: Unknown, Gauge, pdc = 801/170/102?
+        l0: false
+        type: int
+        value: 2839
+      118:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      119:
+        exists: false
+      120:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      121:
+        comment: Timestamp, current time of query?
+        l0: false
+        type: str
+        value: 26.07.20 13:56:58
+      122:
+        comment: Unknown, Timestamp
+        l0: false
+        type: str
+        value: 01.01.99 01:01:01
+      123:
+        comment: null
+        l0: false
+        type: int
+        value: 70
+      124:
+        comment: null
+        l0: false
+        type: int
+        value: 70
+      125:
+        comment: null
+        l0: false
+        type: int
+        value: 5
+      126:
+        comment: null
+        l0: false
+        type: int
+        value: 4
+      127:
+        comment: null
+        l0: false
+        type: int
+        value: 2
+      128:
+        comment: null
+        l0: false
+        type: int
+        value: 5
+      129:
+        exists: false
+      130:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      131:
+        comment: null
+        l0: false
+        type: int
+        value: 5
+      132:
+        comment: null
+        l0: false
+        type: int
+        value: 5
+      133:
+        comment: null
+        l0: false
+        type: int
+        value: 2
+      134:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      135:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      136:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      137:
+        comment: null
+        l0: false
+        type: int
+        value: 1
+      138:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      139:
+        exists: false
+      140:
+        comment: Unknown, number of devices to scan for? TODO see above
+        l0: true
+        type: int
+        value: 2
+      141:
+        comment: null
+        l0: true
+        type: int
+        value: 4
+      142:
+        comment: Unknown, skips slot 1 if ``1`` during scanning
+        l0: true
+        type: int
+        value: 0
+      143:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      144:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      145:
+        comment: null
+        l0: true
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-23
+            type: int
+            value: 0
+      146:
+        comment: null
+        l0: true
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-23
+            type: int
+            value: 0
+      147:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      148:
+        exists: false
+      149:
+        exists: false
+      150:
+        comment: Unknown, timestamp of an event?
+        l0: false
+        type: str
+        value: 26.07.20 08:40:00
+      151:
+        comment: null
+        l0: false
+        l1: true
+        type: int
+        value: 0
+      152:
+        comment: null
+        l0: false
+        type: str
+        value: ''
+      153:
+        comment: null
+        l0: false
+        type: str
+        value: ''
+      154:
+        comment: null
+        l0: false
+        type: str
+        value: ''
+      155:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      156:
+        comment: null
+        l0: false
+        type: str
+        value: NA
+      157:
+        comment: null
+        l0: false
+        type: str
+        value: ''
+      158:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      159:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      160:
+        comment: Installation date of the device
+        l0: false
+        type: str
+        value: 01.06.20 00:00:00
+      161:
+        comment: Unknown, Timestamp, usually 1s ahead of ``121``
+        l0: false
+        type: str
+        value: 26.07.20 13:57:00
+      162:
+        comment: Unknown, Timestamp, usually 1s ahead of ``161``
+        l0: false
+        type: str
+        value: 26.07.20 13:57:01
+      163:
+        comment: Unknown, Timestamp, rounded down to ``minute % 5 == 0``
+        l0: false
+        type: str
+        value: 26.07.20 13:55:00
+      164:
+        exists: false
+      165:
+        exists: false
+      166:
+        exists: false
+      167:
+        exists: false
+      168:
+        exists: false
+      169:
+        exists: false
+      170:
+        comment: null
+        l0: false
+        l1: true
+        type: str
+        value: ''
+      171:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      172:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      173:
+        comment: Unknown, Inventory of the Solar-Log™ itself?
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Range 0-28
+            type: object
+            children:
+              100:
+                comment: Unknown, Parent device name?
+                type: str
+                value: SDS:SL
+              101:
+                comment: Unknown, Identifier, maybe for language lookup?
+                type: str
+                value: PM_PL_SC
+              102:
+                comment: null
+                type: str
+                value: ''
+              103:
+                comment: Serial number, same for all devices which share the same value in the ``100`` field.
+                type: str
+                value: __serial_number__
+              104:
+                comment: Unknown, Timestamp, 1h into the future?
+                type: int
+                value: 1594512000
+              105:
+                comment: Unknown, maybe lookup for a state or capabilities?
+                type: int
+                value: 0
+              106:
+                comment: Unknown, maybe lookup for a state or capabilities?
+                type: int
+                value: 0
+              107:
+                comment: Unknown, maybe lookup for a state or capabilities?
+                type: int
+                value: 1
+              108:
+                comment: Unknown, maybe lookup for a state or capabilities?
+                type: int
+                value: 2
+      174:
+        comment: null
+        l0: true
+        l1: true
+        type: object
+        value: '{}'
+        children: {}
+      175:
+        comment: Unknown, Timestamp?
+        l0: false
+        type: int
+        value: 1592784000
+      176:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: int
+            value: 7541
+          103:
+            comment: null
+            type: int
+            value: 0
+  801:
+    comment: See :ref:`sl-structure-801`
+    exists: true
+    l0: null
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    substructure:
+      100:
+        comment: null
+        l0: false
+        type: int
+        value: 4
+      101:
+        comment: Software version
+        l0: false
+        type: str
+        value: 5.1.0 Build 154
+      102:
+        comment: Software release date
+        l0: false
+        type: str
+        value: 02.03.2020
+      103:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      104:
+        comment: null
+        l0: false
+        l1: false
+        type: int
+        value: 0
+      105:
+        comment: null
+        l0: true
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-63
+            type: object
+            children:
+              100:
+                comment: null
+                type: int
+                value: 0
+              101:
+                comment: null
+                type: int
+                value: 0
+              102:
+                comment: null
+                type: int
+                value: 0
+              103:
+                comment: null
+                type: str
+                value: ''
+              104:
+                comment: null
+                type: object
+                children:
+                  $n:
+                    comment: Unknown, Range 0-5
+                    type: int
+                    value: 0
+              105:
+                comment: null
+                type: int
+                value: 0
+              106:
+                comment: null
+                type: int
+                value: 0
+      106:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      107:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      108:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      109:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      110:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+      111:
+        comment: null
+        l0: false
+        type: object
+        children:
+          0:
+            comment: Unknown, Range 0-47, Value ``0`` or ``100``
+            type: int
+            value: 0
+      112:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      113:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      114:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      115:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      116:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      117:
+        comment: null
+        l0: false
+        type: int
+        value: 1
+      118:
+        exists: false
+      119:
+        exists: false
+      120:
+        comment: null
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-8
+            type: object
+            children:
+              100:
+                comment: Unknown, IPv4-address?
+                type: str
+                value: 0.0.0.0
+              101:
+                comment: Unknown, Timestamp of an event?
+                type: str
+                value: 01.01.99 01:01:01
+      121:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      122:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      123:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      124:
+        comment: null
+        l0: false
+        l1: false
+        type: int
+        value: 0
+      125:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      126:
+        comment: null
+        l0: false
+        type: int
+        value: 1
+      127:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      128:
+        exists: false
+      129:
+        exists: false
+      130:
+        comment: Unknown, loaded in battery balance view
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 744
+          101:
+            comment: null
+            type: str
+            value: 347.8200
+          102:
+            comment: null
+            type: float
+            value: 207.63
+          103:
+            comment: null
+            type: str
+            value: 0.0000
+          104:
+            comment: null
+            type: str
+            value: 0.0000
+          105:
+            comment: null
+            type: int
+            value: 39.34
+          106:
+            comment: null
+            type: str
+            value: 0.0000
+          107:
+            comment: null
+            type: str
+            value: 347.8200
+          108:
+            comment: null
+            type: str
+            value: 0.0000
+          109:
+            comment: null
+            type: str
+            value: 347.8200
+          110:
+            comment: null
+            type: str
+            value: 0.0000
+      131:
+        comment: Unknown, loaded in battery balance view
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 21
+          101:
+            comment: null
+            type: str
+            value: 9.8175
+          102:
+            comment: null
+            type: float
+            value: 4.483
+          103:
+            comment: null
+            type: str
+            value: 0.0000
+          104:
+            comment: null
+            type: str
+            value: 0.0000
+          105:
+            comment: null
+            type: int
+            value: 0
+          106:
+            comment: null
+            type: str
+            value: 0.0000
+          107:
+            comment: null
+            type: str
+            value: 9.8175
+          108:
+            comment: null
+            type: str
+            value: 0.0000
+          109:
+            comment: null
+            type: str
+            value: 9.8175
+          110:
+            comment: null
+            type: str
+            value: 0.0000
+      132:
+        comment: Unknown, loaded in battery balance view
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 744
+          101:
+            comment: null
+            type: str
+            value: 347.8200
+          102:
+            comment: null
+            type: float
+            value: 207.63
+          103:
+            comment: null
+            type: str
+            value: 0.0000
+          104:
+            comment: null
+            type: str
+            value: 0.0000
+          105:
+            comment: null
+            type: int
+            value: 39.34
+          106:
+            comment: null
+            type: str
+            value: 0.0000
+          107:
+            comment: null
+            type: str
+            value: 347.8200
+          108:
+            comment: null
+            type: str
+            value: 0.0000
+          109:
+            comment: null
+            type: str
+            value: 347.8200
+          110:
+            comment: null
+            type: str
+            value: 0.0000
+            value: 0.0000
+      133:
+        comment: Unknown, loaded in battery balance view
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: str
+            value: 0.0000
+          102:
+            comment: null
+            type: float
+            value: 0
+          103:
+            comment: null
+            type: str
+            value: 0.0000
+          104:
+            comment: null
+            type: str
+            value: 0.0000
+          105:
+            comment: null
+            type: int
+            value: 0
+          106:
+            comment: null
+            type: str
+            value: 0.0000
+          107:
+            comment: null
+            type: str
+            value: 0.0000
+          108:
+            comment: null
+            type: str
+            value: 0.0000
+          109:
+            comment: null
+            type: str
+            value: 0.0000
+          110:
+            comment: null
+            type: str
+            value: 0.0000
+      134:
+        comment: null
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-239
+            type: object
+            children:
+              100:
+                comment: Unknown, Timestamp
+                type: str
+                value: 01.06.20 00:00:00
+              101:
+                comment: Unknown, Measurement?
+                type: str
+                value: 49.5550
+      135:
+        exists: false
+      136:
+        exists: false
+      137:
+        exists: false
+      138:
+        exists: false
+      139:
+        exists: false
+      140:
+        comment: null
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-9
+            type: object
+            children:
+              100:
+                comment: Unknown, Timestamp
+                type: str
+                value:
+                  01.01.99 01:01:01
+              101:
+                comment: null
+                type: null
+                value: null
+              102:
+                comment: null
+                type: int
+                value: 0
+              103:
+                comment: null
+                type: int
+                value: 0
+              104:
+                comment: null
+                type: object
+                children:
+                  $n:
+                    comment: Unknown, Range 0-7
+                    type: int
+                    value: 0
+              105:
+                comment: null
+                type: int
+                value: 0
+              106:
+                comment: null
+                type: object
+                children:
+                  $n:
+                    comment: Unknown, Range 0-7
+                    type: int
+                    value: 0
+              107:
+                comment: null
+                type: int
+                value: 0
+              108:
+                comment: null
+                type: int
+                value: 0
+              109:
+                comment: null
+                type: null
+                value: null
+              110:
+                comment: null
+                type: object
+                children:
+                  $n:
+                    comment: Unknown, Range 0-7
+                    type: int
+                    value: 0
+      141:
+        comment: null
+        l0: false
+        l1: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-99
+            type: int
+            value: 0
+      142:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-9
+                type: int
+                value: 0
+          101:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-9
+                type: int
+                value: 0
+      143:
+        exists: false
+      144:
+        exists: false
+      145:
+        exists: false
+      146:
+        exists: false
+      147:
+        exists: false
+      148:
+        exists: false
+      149:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      150:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      151:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      152:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      153:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      154:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      155:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      156:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      157:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      158:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      159:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      160:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-3
+                type: int
+                value: 0
+          103:
+            comment: null
+            type: int
+            value: 255
+          104:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          105:
+            comment: null
+            type: int
+            value: -1
+          106:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          107:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: -1
+          108:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          109:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          110:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          111:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-2
+                type: int
+                value: 0
+          112:
+            comment: null
+            type: int
+            value: 0
+      161:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-6
+                type: int
+                value: 0
+          103:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-6
+                type: int
+                value: 0
+          104:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 255
+          105:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 0
+          106:
+            comment: null
+            type: int
+            value: 0
+      162:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: int
+            value: 255
+          103:
+            comment: null
+            type: object
+            children:
+              0:
+                comment: null
+                type: int
+                value: -1
+          104:
+            comment: null
+            type: object
+            children:
+              0:
+                comment: 0
+                type: int
+                value: -1
+      163:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 255
+          103:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 0
+      164:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: null
+            type: int
+            value: 0
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 255
+          103:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-7
+                type: int
+                value: 0
+      165:
+        exists: false
+      166:
+        exists: false
+      167:
+        exists: false
+      168:
+        exists: false
+      169:
+        exists: false
+      170:
+        comment: Open JSON
+        l0: true
+        type: object
+        children:
+          100:
+            comment: Timestamp, current time of query
+            type: str
+            value: 25.07.20 15:18:15
+          101:
+            comment: pac (= 800/114 or 800/117?) [W]
+            type: int
+            value: 2983
+          102:
+            comment: pdc (= 800/114 or 800/117?) [W]
+            type: int
+            value: 3076
+          103:
+            comment: uac [V]
+            type: int
+            value: 0
+          104:
+            comment: udc [V]
+            type: int
+            value: 377
+          105:
+            comment: yield_day [Wh]
+            type: int
+            value: 21000
+          106:
+            comment: yield_yesterday [Wh], cumulative yield of yesterday
+            type: int
+            value: 19000
+          107:
+            comment: yield_month [Wh], cumulative yield of the current month
+            type: int
+            value: 648000
+          108:
+            comment: yield_year [Wh], cumulative yield of the current year
+            type: int
+            value: 744000
+          109:
+            comment: yield_total [Wh], cumulative yield
+            type: int
+            value: 744000
+          110:
+            comment: cons_pac [Wh], consumption AC
+            type: int
+            value: 0
+          111:
+            comment: cons_yield_day [Wh]
+            type: int
+            value: 0
+          112:
+            comment: cons_yield_yesterday [Wh], cumulative consumption of yesterday
+            type: int
+            value: 680
+          113:
+            comment: cons_yield_month [Wh], cumulative consumption of the current month
+            type: int
+            value: 33330
+          114:
+            comment: cons_yield_year [Wh], cumulative consumption of the current year
+            type: int
+            value: 39340
+          115:
+            comment: cons_yield_total [Wh], cumulative consumption
+            type: int
+            value: 39340
+          116:
+            comment: total_power [kWpeak], sum of the peak power of all connected inverters
+            type: int
+            value: 7800
+      171:
+        exists: false
+      172:
+        exists: false
+      173:
+        comment: null
+        l0: false
+        type: object
+        children:
+          0:
+            comment: null
+            type: int
+            value: 0
+          1:
+            comment: null
+            type: int
+            value: 1
+          2:
+            comment: null
+            type: int
+            value: 1
+          3:
+            comment: null
+            type: int
+            value: 1
+          4:
+            comment: null
+            type: int
+            value: 199
+          5:
+            comment: null
+            type: int
+            value: 9
+          6:
+            comment: null
+            type: int
+            value: 195
+          7:
+            comment: null
+            type: int
+            value: 1
+          8:
+            comment: null
+            type: int
+            value: 17
+          9:
+            comment: null
+            type: int
+            value: 77
+          10:
+            comment: null
+            type: int
+            value: 231
+          11:
+            comment: null
+            type: int
+            value: 199
+          12:
+            comment: null
+            type: int
+            value: 65
+          13:
+            comment: null
+            type: int
+            value: 67
+          14:
+            comment: null
+            type: int
+            value: 195
+          15:
+            comment: null
+            type: int
+            value: 77
+          16:
+            comment: null
+            type: int
+            value: 65
+      174:
+        comment: null
+        l0: false
+        type: object
+        children:
+          100:
+            comment: Unknown, Gauge, pac =801/170/101?
+            type: int
+            value: 2983
+          101:
+            comment: null
+            type: int
+            value: 0
+          102:
+            comment: null
+            type: int
+            value: 2928
+          103:
+            comment: null
+            type: int
+            value: 0
+          104:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-15
+                type: object
+                children:
+                  100:
+                    comment: Unknown, pac of cur ID? 174/108
+                    type: int
+                    value: 2928
+                  101:
+                    comment: Unknown, pdc of cur ID? 174/109
+                    type: int
+                    value: 2983
+                  102:
+                    comment: null
+                    type: int
+                    value: 0
+                  103:
+                    comment: null
+                    type: int
+                    value: 0
+                  104:
+                    comment: Unknown, Timestamp?
+                    type: int
+                    value: 1595690103
+                  105:
+                    comment: Unknown, Timestamp?
+                    type: int
+                    value: 1595690298
+                  106:
+                    comment: null
+                    type: int
+                    value: 55
+                  107:
+                    comment: Unknown, 174/107?
+                    type: int
+                    value: 85
+                  108:
+                    comment: null
+                    type: int
+                    value: 1
+                  109:
+                    comment: null
+                    type: int
+                    value: 0
+          105:
+            comment: Unknown, Timestamp?
+            type: int
+            value: 1595690308
+          106:
+            comment: null
+            type: int
+            value: 88
+          107:
+            comment: Unknown, sum of $i/107?, or string voltage?
+            type: int
+            value: 87
+          108:
+            comment: Unknown, sum of pac $i/100?
+            type: int
+            value: 2983
+          109:
+            comment: Unknown, sum of pdc $i/101?
+            type: int
+            value: 2928
+          110:
+            comment: null
+            type: int
+            value: 0
+          111:
+            comment: null
+            type: int
+            value: 0
+          112:
+            comment: null
+            type: int
+            value: 0
+          113:
+            comment: null
+            type: int
+            value: 0
+          114:
+            comment: null
+            type: int
+            value: 0
+          115:
+            comment: null
+            type: int
+            value: 2
+          116:
+            comment: null
+            type: int
+            value: 0
+          117:
+            comment: null
+            type: int
+            value: 1
+      175:
+        comment: null
+        l0: false
+        type: object
+        children:
+          $i:
+            comment: Unknown, Range 0-9
+            type: object
+            children:
+              100:
+                comment: null
+                type: object
+                children:
+                  0:
+                    comment: null
+                    type: int
+                    value: 0
+                  1:
+                    comment: null
+                    type: int
+                    value: 0
+                  2:
+                    comment: null
+                    type: int
+                    value: 0
+                  3:
+                    comment: null
+                    type: int
+                    value: 0
+                  4:
+                    comment: null
+                    type: int
+                    value: 0
+                  5:
+                    comment: null
+                    type: int
+                    value: 0
+                  6:
+                    comment: null
+                    type: int
+                    value: 0
+                  7:
+                    comment: null
+                    type: int
+                    value: 0
+                101:
+                  comment: null
+                  type: int
+                  value: 0
+      176:
+        exists: false
+      177:
+        exists: false
+      178:
+        exists: false
+      179:
+        exists: false
+      180:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      181:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      182:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      183:
+        exists: false
+      184:
+        exists: false
+      185:
+        exists: false
+      186:
+        exists: false
+      187:
+        exists: false
+      188:
+        exists: false
+      189:
+        exists: false
+      190:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: null
+        value: null
+      191:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: null
+        value: null
+      192:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: null
+        value: null
+      193:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: null
+        value: null
+      194:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: null
+        value: null
+      195:
+        comment: null
+        l0: false
+        l1: false
+        l2: false
+        l3: false
+        type: object
+        children:
+          101:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-69
+                type: null
+                value: null
+          102:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-89
+                type: null
+                value: null
+          103:
+            comment: null
+            type: null
+            value: null
+          104:
+            comment: null
+            type: null
+            value: null
+          105:
+            comment: null
+            type: null
+            value: null
+          106:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-8
+                type: null
+                value: null
+          107:
+            comment: null
+            type: object
+            children:
+              $i:
+                comment: Unknown, Range 0-8
+                type: null
+                value: null
+      196:
+        comment: null
+        l0: false
+        l1: false
+        type: str
+        value: 0
+      197:
+        comment: null
+        l0: false
+        l1: false
+        type: int
+        value: 0
+      198:
+        exists: false
+      199:
+        exists: false
+      775:
+        exists: false
+      776:
+        exists: false
+      777:
+        comment: Unknown, Operation mode? 64 if device is in error lockdown waiting for the user (while 892 is true), 71 during the initial device setup, 42 during data cruncing after device discovery is done, 3 seems to be normal operation mode.
+        l0: true
+        type: int
+        value: 3
+      778:
+        comment: null
+        l0: true
+        type: str
+        value: 0;0;0;0;
+      779:
+        comment: null
+        l0: true
+        type: str
+        value: ''
+      780:
+        comment: null
+        l0: false
+        type: int
+        value: 0
+      781:
+        comment: null
+        l0: true
+        type: int
+        value: 0
+  802:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: false
+    l3: null
+    type: object
+    children:
+      100:
+        comment: null
+        type: null
+        value: null
+      101:
+        comment: null
+        type: null
+        value: null
+      102:
+        comment: null
+        type: null
+        value: null
+  803:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: null
+        type: array
+        value: '[]'
+        children: []
+      101:
+        comment: null
+        l1: null
+        l2: false
+        type: null
+        value: null
+      102:
+        comment: null
+        l1: null
+        l2: false
+        type: null
+        value: null
+      103:
+        comment: null
+        type: str
+        value: OK
+      104:
+        comment: null
+        l1: null
+        l2: null
+        type: null
+        value: null
+      105:
+        comment: null
+        l1: null
+        l2: null
+        type: null
+        value: null
+  804:
+    exists: false
+  805:
+    exists: false
+  848:
+    exists: false
+  849:
+    exists: false
+  850:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  851:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  852:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  853:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  854:
+    comment: Yearly consumption and production per inverter (IOB).
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: true
+    type: object
+    children:
+      $d:
+        comment: Device / Inverter ID?
+        type: array
+        children:
+          $i:
+            comment: Year
+            type: array
+            children:
+              0:
+                comment: First day of the year
+                type: str
+                value: 01.01.20
+              1:
+                comment: Values
+                type: array
+                children:
+                  0:
+                    comment: null
+                    type: int
+                    value: 200780
+                  1:
+                    comment: null
+                    type: int
+                    value: 1734000
+                  2:
+                    comment: null
+                    type: int
+                    value: 465085
+                  3:
+                    comment: null
+                    type: int
+                    value: 176368
+  855:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  856:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  857:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  858:
+    comment: Battery readings, used in the energy flow display. Unknown how this looks with more than one battery hooked up.
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: array
+    children:
+      0:
+        comment: Battery voltage (V), ``0`` if not measured.
+        type: int
+        value: 0
+      1:
+        comment: Battery charge state (%)
+        type: int
+        value: 97
+      2:
+        comment: Battery charge power (W)
+        type: int
+        value: 24
+      3:
+        comment: Battery discharge power (W)
+        type: int
+        value: 0
+  859:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  860:
+    comment: See :ref:`sl-structure-860`
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    substructure:
+      $i:
+        comment: Device ID, Range 0-254
+        type: object
+        children:
+          0:
+            comment: null
+            type: array
+            children:
+              0:
+                comment: null
+                type: int
+                value: 0
+              1:
+                comment: null
+                type: int
+                value: 1
+          1:
+            comment: null
+            type: array
+            children:
+              0:
+                comment: null
+                type: array
+                children:
+                  0:
+                    comment: null
+                    type: int
+                    value: 978307200
+                  1:
+                    comment: Unknown, Date?
+                    type: str
+                    value: 1.1.2001
+                  2:
+                    comment: Unknown, Timestamp?
+                    type: int
+                    value: 1593165442
+                  3:
+                    comment: Unknown, installation date?
+                    type: str
+                    value: 26.6.2020 9:57:22
+              1:
+                comment: null
+                type: array
+                children:
+                  $d:
+                    comment: Unknown, Device ID?
+                    type: array
+                    children:
+                      0:
+                        comment: null
+                        type: array
+                        children:
+                          0:
+                            comment: null
+                            type: int
+                            value: 0
+                          1:
+                            comment: null
+                            type: str
+                            value: Solar-Log SE
+                          2:
+                            comment: null
+                            type: int
+                            value: 181
+                          3:
+                            comment: null
+                            type: int
+                            value: 42
+                          4:
+                            comment: null
+                            type: int
+                            value: 0
+                          5:
+                            comment: null
+                            type: int
+                            value: 0
+                          6:
+                            comment: null
+                            type: int
+                            value: 0
+                          7:
+                            comment: null
+                            type: null
+                            value: 'null'
+                          8:
+                            comment: null
+                            type: int
+                            value: 0
+                          9:
+                            comment: null
+                            type: int
+                            value: 0
+                          10:
+                            comment: null
+                            type: int
+                            value: 0
+                          11:
+                            comment: null
+                            type: int
+                            value: 0
+                          12:
+                            comment: null
+                            type: str
+                            value: ''
+                          13:
+                            comment: null
+                            type: str
+                            value: 1891184814
+                          14:
+                            comment: null
+                            type: int
+                            value: 0
+                          15:
+                            comment: null
+                            type: str
+                            value: ''
+                          16:
+                            comment: null
+                            type: str
+                            value: ''
+                          17:
+                            comment: null
+                            type: int
+                            value: 0
+                          18:
+                            comment: null
+                            type: int
+                            value: 0
+                          19:
+                            comment: null
+                            type: str
+                            value: ''
+                          20:
+                            comment: null
+                            type: null
+                            value: 'null'
+                      1:
+                        comment: null
+                        type: array
+                        children:
+                          $n:
+                            comment: Unknown, Range 0-25
+                            type: array
+                            children:
+                              0:
+                                comment: null
+                                type: int
+                                value: 24
+                              1:
+                                comment: null
+                                type: int
+                                value: 14
+                      2:
+                        comment: null
+                        type: array
+                        children:
+                          $n:
+                            comment: Unknown, Range 0-25
+                            type: array
+                            children:
+                              0:
+                                comment: null
+                                type: int
+                                value: 8
+                              1:
+                                comment: null
+                                type: int
+                                value: 1
+                      3:
+                        comment: null
+                        type: array
+                        children:
+                          $n:
+                            comment: Unknown, Range 0-25
+                            type: array
+                            children:
+                              0:
+                                comment: null
+                                type: int
+                                value: 8
+                              1:
+                                comment: null
+                                type: int
+                                value: 1
+                      4:
+                        comment: null
+                        type: array
+                        children:
+                          $n:
+                            comment: Unknown, Range 0-25
+                            type: array
+                            children:
+                              0:
+                                comment: null
+                                type: int
+                                value: 8
+                              1:
+                                comment: null
+                                type: int
+                                value: 1
+  861:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  862:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-99
+        type: null
+        value: null
+  863:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-99
+        type: null
+        value: null
+  864:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: array
+    children:
+      0:
+        comment: Unknown, timestamp?
+        type: int
+        value: 1596067200
+      1:
+        comment: Unknown, timestamp?
+        type: int
+        value: 1596145403
+      3:
+        comment: null
+        type: int
+        value: 4
+  865:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  866:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  867:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  868:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-254
+        type: null
+        value: null
+  869:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  870:
+    comment: Unknown, graph legend?
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Unknown, Range 0-339
+        type: array
+        children:
+          0:
+            comment: null
+            type: int
+            value: 6
+          1:
+            comment: null
+            type: int
+            value: 0
+          2:
+            comment: null
+            type: int
+            value: 0
+          3:
+            comment: i18n key or name
+            type: str
+            value: L_TEMPERATURE
+          4:
+            comment: Unit string
+            type: str
+            value: °C
+  871:
+    comment: null
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: null
+        type: int
+        value: 0
+  872:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      inv:
+        comment: null
+        type: object
+        children:
+          1:
+            comment: Unknown, 4 integer elements
+            type: array
+            children: []
+          2:
+            comment: Unknown, 5 integer elements
+            type: array
+            children: []
+      components:
+        comment: null
+        type: array
+        children:
+          1:
+            comment: Unknown, 3 integer elements
+            type: array
+            children: []
+          2:
+            comment: Unknown, 3 integer elements
+            type: array
+            children: []
+          3:
+            comment: Unknown, 1 integer element
+            type: array
+            children: []
+  873:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  874:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  875:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  876:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  877:
+    comment: Monthly production statistics.
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: true
+    type: object
+    children:
+      $i:
+        comment: Month
+        type: object
+        children:
+          0:
+            comment: Date of the first day of the month
+            type: str
+            value: 01.02.20
+          1:
+            comment: null
+            type: int
+            value: 804000
+          2:
+            comment: null
+            type: int
+            value: 19356
+          3:
+            comment: null
+            type: int
+            value: 83
+          4:
+            comment: null
+            type: int
+            value: 128
+          5:
+            comment: null
+            type: int
+            value: 129634
+          6:
+            comment: null
+            type: int
+            value: 105935
+  878:
+    comment: Yearly production, consumption and self-consumption.
+    exists: true
+    l0: false
+    l1: null
+    l2: true
+    l3: true
+    type: object
+    children:
+      $id:
+        comment: Year before current, 0 is the running year
+        type: object
+        children:
+          0:
+            comment: Date of the first day of the month
+            type: str
+            value: 01.02.20
+          1:
+            comment: Generation (Wh)
+            type: int
+            value: 1972000
+          2:
+            comment: Consumption (Wh)
+            type: int
+            value: 616184
+          3:
+            comment: Self-consumption (kWh)
+            type: int
+            value: 470
+          4:
+            comment: Self-consumption battery (kWh)
+            type: int
+            value: 398
+          5:
+            comment: Cumulative battery charge (Wh)
+            type: int
+            value: 402214
+          6:
+            comment: Cumulative battery discharge (Wh)
+            type: int
+            value: 352766
+  879:
+    comment: '`Easy-Code`'
+    exists: true
+    l0: false
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: "asdfgh"
+  880:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  881:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  882:
+    comment: null
+    exists: true
+    l0: false
+    l1: false
+    l2: null
+    l3: null
+    type: null
+    value: null
+  883:
+    comment: Fingerprint of the certificate configured for secure access to the devices website.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: SHA1 Fingerprint=8F:75:59:94:9E:C2:DC:38:6A:3C:E3:BE:09:F6:14:FD:7E:06:33:FE
+  884:
+    comment: null
+    exists: true
+    l0: false
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  885:
+    comment: null
+    exists: false
+    l0: null
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  886:
+    comment: null
+    exists: false
+    l0: null
+    l1: null
+    l2: null
+    l3: null
+    type: null
+    value: null
+  887:
+    exists: false
+  888:
+    exists: false
+  889:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: bool
+    value: false
+  890:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: bool
+    value: false
+  891:
+    comment: null
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: str
+    value: error
+  892:
+    comment: Unknown, ``true`` if error locked?
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: bool
+    value: false
+  893:
+    comment: Unknown, ``true`` before initial setup?
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: bool
+    value: false
+  894:
+    exists: false
+  895:
+    comment: SD-Card information (IOB). Structure does not contain sensible information for devices without SD-Card, such as the `Base 15`.
+    exists: true
+    l0: true
+    l1: true
+    l2: true
+    l3: true
+    type: object
+    children:
+      100:
+        comment: Card info 4
+        type: str
+        value: ''
+      101:
+        comment: Card info 1
+        type: int
+        value: 0
+      102:
+        comment: Card info 3
+        type: str
+        value: ''
+      103:
+        comment: Card info 2
+        type: str
+        value: ''
+      104:
+        comment: Month
+        type: int
+        value: 0
+      105:
+        comment: Year
+        type: int
+        value: 0
+      106:
+        comment: null
+        type: int
+        value: 0
+      107:
+        comment: null
+        type: int
+        value: 0
+      108:
+        comment: null
+        type: int
+        value: 0
+  896:
+    exists: false
+  897:
+    exists: false
+  898:
+    exists: false
+  899:
+    exists: false
